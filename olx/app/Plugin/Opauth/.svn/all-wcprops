@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/351/zakoopi/app/Plugin/Opauth
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/13/zakoopi/app/Plugin/Opauth/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/13/zakoopi/app/Plugin/Opauth/.gitignore
+END
+.gitmodules
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/83/zakoopi/app/Plugin/Opauth/.gitmodules
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/83/zakoopi/app/Plugin/Opauth/README.md
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/13/zakoopi/app/Plugin/Opauth/composer.json
+END
